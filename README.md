@@ -11,7 +11,7 @@ The themes I like to use on GitKraken (I'm currently using 1984).
 * [TheMatrix](https://github.com/OwainWilliams/GitKrakenThemes/tree/master/TheMatrix) - Matrix theme (very green and much cool)
 * [Monochrome](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Monochrome) - Monochrome Dark theme (very monochrome, much dark)
 
-If you want more custom themes to check out, I recommend looking up this gist at [Awesome Open Source](https://awesomeopensource.com/project/JonBunator/gitkraken-custom-themes) currating multiple themes.
+If you want more custom themes to check out, I recommend looking up [this gist at Awesome Open Source](https://awesomeopensource.com/project/JonBunator/gitkraken-custom-themes) currating multiple themes.
 
 ## Builder
 
