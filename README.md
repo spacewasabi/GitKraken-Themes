@@ -4,7 +4,13 @@
 
 The themes I like to use on GitKraken (I'm currently using 1984).
 
+## How to change themes
+
+Here's the [GitKraken Client Documentation](https://help.gitkraken.com/gitkraken-client/themes/) for changing themes on GitKraken.
+
 ## Sources
+
+Here's a list of GitKraken themes you can use :
 
 * [1984](https://github.com/JonBunator/gitkraken-custom-themes/blob/master/Themes/1984/1984-dark.jsonc) - Cyberpunk theme (very cool)
 * [Tokyo Night](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/TokyoNight) - Tokyo Night theme (very drift, awesome)
