@@ -16,6 +16,7 @@ Here's a list of GitKraken themes you can use :
 * [Tokyo Night](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/TokyoNight) - Tokyo Night theme (very drift, awesome)
 * [TheMatrix](https://github.com/OwainWilliams/GitKrakenThemes/tree/master/TheMatrix) - Matrix theme (very green and much cool)
 * [Monochrome](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Monochrome) - Monochrome Dark theme (very monochrome, much dark)
+* [Covered By Roses](https://github.com/chirpycora/covered-by-roses) - Crimson Dark theme (very very red, much crimson, such devil)
 
 If you want more custom themes to check out, I recommend looking up [this page from Jonbunator](https://jonbunator.github.io/gitkraken-custom-themes/) currating multiple themes.
 
